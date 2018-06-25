@@ -1,0 +1,13 @@
+[user]
+        name = chelmus.marian@gmail.com
+        email = chelmus.marian@gmail.com
+
+[alias]
+        lg = log --oneline --all --graph --decorate --color
+        pa = pull --ff-only --all
+        st = status
+        ci = commit
+        br = branch
+        co = checkout
+[github]
+        user = marianchelmus
